@@ -1,0 +1,15 @@
+{
+  "name": "moviestream-project",
+  "version": "1.0.0",
+  "description": "## Описание MovieStream е MongoDB база данни за онлайн платформа за стрийминг на филми. Съдържа потребители, филми, абонаменти, история на гледане и ревюта.",
+  "main": "insert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.17.0"
+  }
+}
